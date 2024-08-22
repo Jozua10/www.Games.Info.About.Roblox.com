@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JoJo_Uw95 Roblox Avatar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        .avatar {
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 300px;
+            width: 100%;
+            height: auto;
+        }
+        .profile-link {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .profile-link:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>JoJo_Uw95 Roblox Avatar</h1>
+    <p>This is the avatar of JoJo_Uw95 on Roblox.</p>
+    
+    <!-- Replace the src value with the URL of the Roblox avatar image -->
+    <img src="https://tr.rbxcdn.com/25b8d70cd50950dcd14a342303e92a83/150/150/AvatarHeadshot/Png" alt="JoJo_Uw95 Avatar" class="avatar">
+
+    <br>
+    <a href="https://www.roblox.com/users/5381506205/profile" class="profile-link" target="_blank">View Profile</a>
+
+</body>
+</html>
